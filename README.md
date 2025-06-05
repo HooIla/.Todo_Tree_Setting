@@ -1,1 +1,3 @@
-# .Todo_Tree_Setting
+# Todo Tree Setting
+
+for vscode extension "Todo Tree" setting
