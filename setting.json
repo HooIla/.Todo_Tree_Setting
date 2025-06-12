@@ -1,11 +1,3 @@
-    "todo-tree.tree.showScanModeButton": false,
-    "todo-tree.filtering.excludeGlobs": ["**/node_modules", "*.xml", "*.XML"],
-    "todo-tree.filtering.ignoreGitSubmodules": true,
-    "todohighlight.keywords": [],
-    "todo-tree.tree.showCountsInTree": true,
-    "todohighlight.keywordsPattern": "TODO:|FIXME:|NOTE:|\\(([^)]+)\\)",
-    "todohighlight.defaultStyle": {},
-    "todohighlight.isEnable": false,
     "todo-tree.highlights.customHighlight": {
     "BUG": {
         "icon": "bug",
@@ -57,7 +49,3 @@
     "TAG",
     "XXX"
     ],
-    "todo-tree.general.statusBar": "total",
-    "todo-tree.highlights.defaultHighlight": {
-
-    }
